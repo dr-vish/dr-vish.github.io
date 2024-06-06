@@ -2,7 +2,7 @@
 layout: page
 title: Dental satisfaction and pain at UCSF
 description: Assessing dental satisfaction and pain levels during COVID-19
-img: assets/img/12.jpg
+img: assets/img/13.jpg
 importance: 1
 category: capstone
 related_publications: true

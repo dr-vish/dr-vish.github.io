@@ -2,7 +2,7 @@
 layout: page
 title: NLP model development for IBD Medication Classification
 description: Internship at Bakar Computational Health Sciences Institute
-img:
+img: assets/img/14.jpg
 importance: 3
 category: work
 ---
