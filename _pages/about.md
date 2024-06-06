@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data Scientist. Dentist. Researcher.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my data-driven world! I'm Vishakha Malhotra, a passionate data scientist, dentist and healthcare researcher with a keen eye for turning raw information into actionable insights. With a background in Health data science and dentistry, I thrive on the challenge of extracting meaning from complex healthcare datasets and translating it into impactful solutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My journey in data science began with a curiosity for unraveling patterns and trends within healthcare problems. During my masters, I've honed my skills in statistical analysis, machine learning, and data visualization, leveraging cutting-edge tools and techniques to tackle real-world problems. Whether it's predicting disease outcomes, optimizing business processes, or uncovering hidden correlations, I'm driven by the prospect of using data to drive informed decision-making and create tangible value.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond technical proficiency, I believe in the power of collaboration and effective communication. I enjoy working in diverse teams, where different perspectives enrich the problem-solving process and lead to innovative solutions. My ability to translate complex findings into clear, actionable recommendations ensures that insights are not only discovered but also implemented effectively.
+
+When I'm not immersed in data, you can find me exploring new techniques, staying updated on the latest advancements in the field, or sharing my knowledge through writing and mentoring. I'm committed to continuous learning and growth, always seeking new challenges that push the boundaries of what's possible with data science.
+
+Join me on this journey as we navigate the vast landscape of data, uncovering hidden gems and transforming information into impact, one insight at a time.
