@@ -60,7 +60,7 @@ To address the shortcomings, a second model employing regular expressions (regex
 
 \b{re.escape(keyword)}\b.\*?\b{re.escape(med_name)}\b
 
-- This pattern ensures whole word matching, escapes special characters in keywords and medication names, matches any characters between keywords and medication names non-greedily, and is case-insensitive for broader applicability.
+This pattern ensures whole word matching, escapes special characters in keywords and medication names, matches any characters between keywords and medication names non-greedily, and is case-insensitive for broader applicability.
 
 **Results and Accuracy**
 The regex-based model significantly improved the accuracy of detecting medications and tenses to 88%. However, there were still challenges with vague statements in the notes.
