@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dr-vish
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dr-vish/Data-Analysis-of-HIV-testing
+  - dr-vish/Object-Detection-and-Classification-in-Dental-Radiographs
+  - dr-vish/Exploring-NYC-Airbnb-Listings
+  - dr-vish/Working-with-categorical-data
+  - dr-vish/Data-query-operations
+  - dr-vish/Data-types-and-structures-in-R
